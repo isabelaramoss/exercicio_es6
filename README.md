@@ -1,0 +1,23 @@
+# RECURSOS DO ES6+ 
+Durante o Módulo de Recursos do ECS6+, nós:
+- compreendemos o papel do Babel na transpilação de código JavaScript para versões compatíveis com navegadores mais antigos;
+- aprendemos a configurar o Babel e criar arquivos de configuração para projetos de desenvolvimento;
+- exploramos a importância de verificar a compatibilidade dos recursos do ES6+ nos navegadores e como usamos o Babel para lidar com navegadores obsoletos.
+- compreendemos os diferentes métodos de array disponíveis no ES6+;
+- praticamos a iteração em arrays;
+- aplicamos os métodos de array em exemplos do mundo real.
+- compreendemos o conceito de arrow function e como difere das funções tradicionais no JavaScript;
+- identificamos e escrevemos corretamente a sintaxe de uma arrow function;
+- compreendemos como o contexto (this) funciona em arrow functions em comparação com funções tradicionais e quando apropriado usar arrow functions em diferentes cenários.
+- compreendemos o operador Rest;
+- dominamos o uso do operador Spread;
+- praticamos a desestruturação com o operador Rest e Spread.
+- compreendemos o conceito e aplicação do Map;
+- dominamos a iteração através de um Map;
+- exploramos a estrutura Set.
+- compreendemos os conceitos de programação assíncrona;
+- dominamos o uso de Promises em JavaScript;
+- implementamos programação assíncrona em situações reais.
+- compreendemos a programação orientada a objetos em JavaScript;
+- usamos classes e herança em ES6;
+- compreendemos o conceito de encapsulamento de dados.
